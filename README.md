@@ -1,11 +1,18 @@
 # Pandas-Challenge
+The goal of this challenge is to gain insight into the csv file "Heroes of Pymoli" using the python library pandas.
 
 # Resources
+The resources folder contains the csv file "Heroes of Pymoli" that will be anaylzed.
 
 # Test files
+The "Test Files" holds a copy of the submission file with some additional code.
 
 # Submission
 
 # Data Observation
 
-With the data given, there can be some observations made using the dataframes. The first is that the majority of the players are male. Of the 576 players about 84.03% of the players are male followed by females at 14.06% and undisclosed gender at 1.91%.
+* With the data given, there can be some observations made using the dataframes:
+
+    *  Of the 576 players about 84.03% of the players are male followed by females at 14.06% and undisclosed gender at 1.91%.
+    * When examining the age groups of the players, the majority of the players are within the age range 20-24 years old at 44.79%.
+    * The item "Final Critic" is the most popular item as well as the most profitable item.
